@@ -154,7 +154,7 @@ This is the scheduled date of the next occurrence.
 
 This field is visible and editable by OpenProject users.
 
-Treat its value as authoritative.
+The scheduler treats this value as authoritative.
 
 The scheduler updates it after successfully generating an occurrence.
 
