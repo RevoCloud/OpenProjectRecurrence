@@ -5,6 +5,7 @@ We aim to use OpenProject to manage our maintenance and review cycles, both from
 To do this, OpenProject must first be able to make work packages recurring items, which it currently cannot do.
 
 This is a small vibe-coded SystemD Daemon, written in .NET, that leverages the OpenProject API to do just that.
+By the time you're reading this, it has been tested on our own OpenProject servers running on Debian 13. Your mileage may vary, but feel free to raise an issue and/or a pull request if something isn't working.
 
 ## Core concept
 
